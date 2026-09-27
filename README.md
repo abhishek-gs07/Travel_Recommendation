@@ -28,7 +28,3 @@ Low Budget
 Mid-range
 High budget
 
-
-Need proper Ui/UX designing 
-Need to connect python and html
-
